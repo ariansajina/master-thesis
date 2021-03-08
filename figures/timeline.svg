@@ -1,0 +1,1088 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (1.0.1+r73)"
+   sodipodi:docname="timeline.svg"
+   inkscape:export-filename="/home/asajina/repos/master-thesis/figures/timeline.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <rect
+       x="84.666667"
+       y="39.6875"
+       width="92.604167"
+       height="34.395833"
+       id="rect1250" />
+    <rect
+       x="66.145833"
+       y="145.52083"
+       width="5.2916667"
+       height="5.2916667"
+       id="rect1244" />
+    <rect
+       x="31.75"
+       y="137.58333"
+       width="37.041667"
+       height="10.583333"
+       id="rect1238" />
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Send"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path858" />
+    </marker>
+    <marker
+       style="overflow:visible;"
+       id="Arrow1Lend"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Lend"
+       inkscape:isstock="true">
+      <path
+         transform="scale(0.8) rotate(180) translate(12.5,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path846" />
+    </marker>
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1297" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1336" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-6" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1374" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-1" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1374-2" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-1-9" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1435" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-1-0" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1476" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1517" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61-9" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1554" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61-2" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1595" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61-9-5" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1636" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61-9-5-2" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1677" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61-9-5-2-7" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1718" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61-9-5-2-7-1" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1759" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61-9-5-2-7-3" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1759-1" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61-9-5-2-7-7" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1759-8" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3-0" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1848" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61-9-5-2-7-7-1" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1901" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3-0-3" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1942" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61-9-5-2-7-7-1-6" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1995" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3-0-3-5" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect2036" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3-0-3-6" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect2036-5" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3-0-37" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect2128" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3-0-37-2" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect2181" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3-0-3-5-7" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect2227" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-3" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect2348" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-3-7" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect2382" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-3-6" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect2382-8" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-3-3" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect2444" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.88085106"
+     inkscape:cx="558.14491"
+     inkscape:cy="396.91241"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1043"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid833" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234"
+       width="37.041668"
+       height="10.583333"
+       x="2.6458335"
+       y="5.2916665"
+       ry="5.0862704e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250);"
+       transform="translate(-80.896081,-33.476535)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold">25 January</tspan><tspan>
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan>Greek snap election</tspan></tspan></text>
+    <g
+       id="g1214"
+       transform="matrix(1.0188679,0,0,1,-8.1371852,0)">
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 10.583333,195.79166 H 267.22917"
+         id="path835" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1, 2;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 267.22917,195.79167 h 15.875"
+         id="path839" />
+      <path
+         style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#Arrow1Send)"
+         d="m 283.10416,195.79166 h 7.9375"
+         id="path841" />
+    </g>
+    <text
+       xml:space="preserve"
+       id="text1242"
+       style="line-height:1.25;font-family:sans-serif;font-size:3.52777778px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1244);" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-6"
+       width="52.916676"
+       height="18.520828"
+       x="7.9374938"
+       y="21.166666"
+       ry="8.9009718e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-7"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3);"
+       transform="translate(-75.604423,-17.601535)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold">26 January
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan>Syriza forms government
+</tspan></tspan><tspan
+         x="84.666016"
+         y="51.628209"><tspan>Varoufakis becomes finance
+</tspan></tspan><tspan
+         x="84.666016"
+         y="56.037934"><tspan>minister</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338062;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3"
+       width="26.458334"
+       height="10.583333"
+       x="13.229168"
+       y="47.625"
+       ry="5.0862709e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5);"
+       transform="translate(-70.312746,8.8567961)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold">11 February
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5)">Eurogroup</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-7-3"
+       width="39.6875"
+       height="18.520838"
+       x="29.10417"
+       y="92.604164"
+       ry="8.9009773e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-0-6"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-1-9);"
+       transform="translate(-54.437742,53.835973)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-1-9)">24 February
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-1-9)">Eurogroup
+</tspan></tspan><tspan
+         x="84.666016"
+         y="51.628209"><tspan
+           style="shape-inside:url(#rect1250-5-1-9)">four-month loan 
+</tspan></tspan><tspan
+         x="84.666016"
+         y="56.037934"><tspan
+           style="shape-inside:url(#rect1250-5-1-9)">extension for Greece</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.4;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-7-6"
+       width="37.041668"
+       height="10.583333"
+       x="37.041668"
+       y="116.41666"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-0-2"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-1-0);"
+       transform="translate(-46.500235,77.64847)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-1-0)">17 March
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-1-0)">Euro Working Group</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-8"
+       width="26.458334"
+       height="10.583333"
+       x="18.520836"
+       y="63.499996"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-7"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61);"
+       transform="translate(-65.02108,24.731793)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-61)">12 February
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-61)">Eurogroup</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-8-2"
+       width="26.458334"
+       height="10.583333"
+       x="23.812502"
+       y="79.375"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-7-0"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9);"
+       transform="translate(-59.729415,40.606798)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9)">20 February
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-61-9)">Eurogroup</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.399999;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-8-3"
+       width="37.041668"
+       height="10.583333"
+       x="44.979168"
+       y="132.29167"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-7-7"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-2);"
+       transform="translate(-38.562735,93.523469)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-61-2)">1 Aprli
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-61-2)">Euro Working Group</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-8-2-9"
+       width="26.458334"
+       height="10.583333"
+       x="52.916668"
+       y="148.16667"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-7-0-2"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5);"
+       transform="translate(-30.625258,109.39847)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5)">24 April
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-61-9-5)">Eurogroup</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-8-2-9-8"
+       width="26.458334"
+       height="10.583333"
+       x="63.499977"
+       y="164.04167"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-7-0-2-9"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2);"
+       transform="translate(-20.04193,125.27346)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2)">11 May
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-61-9-5-2)">Eurogroup</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-8-2-9-8-3"
+       width="26.458334"
+       height="10.583333"
+       x="74.083328"
+       y="179.91669"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-7-0-2-9-6"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7);"
+       transform="translate(-9.4585981,141.14845)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7)">18 June
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-61-9-5-2-7)">Eurogroup</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-8-2-9-8-3-2"
+       width="26.458334"
+       height="10.583333"
+       x="100.54168"
+       y="47.625"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-7-0-2-9-6-9"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-1);"
+       transform="translate(16.999736,8.8567766)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7-1)">22 June
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-61-9-5-2-7-1)">Eurogroup</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-8-2-9-8-3-9"
+       width="26.458334"
+       height="10.583333"
+       x="105.83333"
+       y="63.499996"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-7-0-2-9-6-4"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-3);"
+       transform="translate(22.291406,24.731771)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7-3)">24 June
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-61-9-5-2-7-3)">Eurogroup</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-8-2-9-8-3-4"
+       width="26.458334"
+       height="10.583333"
+       x="111.125"
+       y="79.375"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-7-0-2-9-6-5"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-7);"
+       transform="translate(27.919083,40.631469)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7-7)">25 June
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-61-9-5-2-7-7)">Eurogroup</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-6-3"
+       width="50.27084"
+       height="18.52083"
+       x="134.9375"
+       y="5.2916665"
+       ry="8.9009718e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-7-6"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0);"
+       transform="translate(51.395569,-33.476535)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold">27 June
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan>Greek prime minister
+</tspan></tspan><tspan
+         x="84.666016"
+         y="51.628209"><tspan>Tsipras announces 
+</tspan></tspan><tspan
+         x="84.666016"
+         y="56.037934"><tspan>referendum for 5 July</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-8-2-9-8-3-4-0"
+       width="26.458334"
+       height="10.583333"
+       x="116.41667"
+       y="95.25"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-7-0-2-9-6-5-6"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1);"
+       transform="translate(32.874736,56.481786)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1)">27 June
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-61-9-5-2-7-7-1)">Eurogroup</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-6-3-2"
+       width="50.27084"
+       height="18.520832"
+       x="153.45831"
+       y="31.749994"
+       ry="8.9009718e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-7-6-0"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3);"
+       transform="translate(69.916383,-7.0182061)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold">29 June
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan>capital controls introduced
+</tspan></tspan><tspan
+         x="84.666016"
+         y="51.628209"><tspan>in Greece (cash withdrawal
+</tspan></tspan><tspan
+         x="84.666016"
+         y="56.037934"><tspan>limited to €60 per day)</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-3-8-2-9-8-3-4-0-1"
+       width="26.458334"
+       height="10.583333"
+       x="174.625"
+       y="84.666664"
+       ry="5.0862714e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-7-0-2-9-6-5-6-5"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6);"
+       transform="translate(91.083053,45.898453)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6)">1 July
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan
+           style="shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6)">Eurogroup</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-6-3-2-4"
+       width="50.27084"
+       height="18.520832"
+       x="187.85416"
+       y="103.18748"
+       ry="8.9009718e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-7-6-0-7"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3-5);"
+       transform="translate(104.31223,64.419293)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold">5 July
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan>the NO vote wins the
+</tspan></tspan><tspan
+         x="84.666016"
+         y="51.628209"><tspan>referendum with 61% of
+</tspan></tspan><tspan
+         x="84.666016"
+         y="56.037934"><tspan>votes</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-6-3-2-6"
+       width="50.27084"
+       height="18.520832"
+       x="166.6875"
+       y="58.208332"
+       ry="8.9009718e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-7-6-0-9"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3-6);"
+       transform="translate(83.145552,19.440131)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold">30 June
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan>Greece fails to make
+</tspan></tspan><tspan
+         x="84.666016"
+         y="51.628209"><tspan>loan payment to IMF
+</tspan></tspan><tspan
+         x="84.666016"
+         y="56.037934"><tspan>on time</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-6-3-4"
+       width="42.333336"
+       height="15.874999"
+       x="195.79167"
+       y="127"
+       ry="7.6294045e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-7-6-5"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-37);"
+       transform="translate(112.24976,88.231798)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold">6 July
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan>Varoufakis resigns as
+</tspan></tspan><tspan
+         x="84.666016"
+         y="51.628209"><tspan>finance minister</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-6-3-4-5"
+       width="42.333336"
+       height="15.874999"
+       x="251.35416"
+       y="5.2916684"
+       ry="7.6294045e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-7-6-5-4"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-37-2);"
+       transform="translate(167.81224,-33.476533)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold">13 March 2020
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan>Varoufakis leaks the
+</tspan></tspan><tspan
+         x="84.666016"
+         y="51.628209"><tspan>Eurogroup recordings</tspan></tspan></text>
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-6-3-2-4-4"
+       width="60.854168"
+       height="18.520832"
+       x="203.72916"
+       y="148.16667"
+       ry="8.9009718e-06" />
+    <text
+       xml:space="preserve"
+       id="text1248-7-6-0-7-4"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3-5-7);"
+       transform="translate(120.18723,109.39847)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="font-weight:bold">13 July
+</tspan></tspan><tspan
+         x="84.666016"
+         y="47.218484"><tspan>despite referendum, Greek
+</tspan></tspan><tspan
+         x="84.666016"
+         y="51.628209"><tspan>government reaches agreement
+</tspan></tspan><tspan
+         x="84.666016"
+         y="56.037934"><tspan>with Troika for third bailout</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5.2916666,15.875 V 195.79166"
+       id="path2271" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 10.583333,39.6875 V 195.79166"
+       id="path2295" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.875,58.208333 V 195.79166"
+       id="path2297" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 21.166666,74.083332 V 195.79166"
+       id="path2299" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 26.458333,89.958332 V 195.79166"
+       id="path2301" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 31.75,111.125 v 84.66666"
+       id="path2303" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 42.333333,127.00001 v 68.79166"
+       id="path2305" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 50.270833,142.875 v 52.91666"
+       id="path2307" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 58.208333,158.75 v 37.04166"
+       id="path2309" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 68.791666,174.625 v 21.16666"
+       id="path2311" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 84.666666,190.5 v 5.29166"
+       id="path2313" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 103.1875,58.208333 V 195.79166"
+       id="path2315" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 108.47917,74.083332 V 195.79166"
+       id="path2317" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 113.77083,89.958332 V 195.79166"
+       id="path2319" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.70833,105.83333 v 89.95833"
+       id="path2321" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 145.52083,23.8125 V 195.79166"
+       id="path2323" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 158.75,50.270833 V 195.79166"
+       id="path2325" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 171.97916,76.729166 V 195.79166"
+       id="path2327" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 177.27083,95.249999 V 195.79166"
+       id="path2329" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 190.5,121.70833 v 74.08333"
+       id="path2331" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 198.4375,142.875 v 52.91666"
+       id="path2333" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 222.25,166.6875 v 29.10416"
+       id="path2335" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 283.10416,195.79166 V 21.166666"
+       id="path2337" />
+    <text
+       xml:space="preserve"
+       id="text1248-5-0"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3);"
+       transform="translate(-82.231863,159.69325)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="shape-inside:url(#rect1250-5-3)">January 2015</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1248-5-0-8"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3-7);"
+       transform="translate(147.95564,159.69325)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan
+           style="shape-inside:url(#rect1250-5-3-7)">July 2015</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1248-5-0-84"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3-6);"
+       transform="translate(195.278,159.14322)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan>2020</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text1248-5-0-1"
+       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3-3);"
+       transform="translate(8.5455871,164.28012)"><tspan
+         x="84.666016"
+         y="42.808759"><tspan>(timeline not in scale)</tspan></tspan></text>
+  </g>
+</svg>
