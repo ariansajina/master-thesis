@@ -141,7 +141,7 @@ for group, leaks_ in leaks_short.items():
 
 leaks_df = pd.concat(dfs, ignore_index=True)
 
-leaks_df.to_csv(PROJECT_ROOT / 'data/euroleaks/prepared.csv', index=False)
+leaks_df.to_csv(PROJECT_ROOT / 'data/euroleaks/parsed.csv', index=False)
 
 
 ###################
@@ -179,4 +179,4 @@ df = pd.DataFrame({
     'story': col_stories
 })
 
-df.to_csv(PROJECT_ROOT / 'data/communiques/prepared.csv', index=False)
+df.to_csv(PROJECT_ROOT / 'data/communiques/parsed.csv', index=False)
