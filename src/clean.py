@@ -137,6 +137,11 @@ def aide_memoire(s):
 
 df.speech = df.speech.apply(lambda s: aide_memoire(s))
 
+###########################
+### program / programme ###
+###########################
+
+df.speech = df.speech.apply(lambda s: s.replace('programme', 'program'))
 
 ####################
 ### write to csv ###
