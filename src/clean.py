@@ -116,7 +116,6 @@ df.speech = df.speech.apply(lambda s: remove_brackets(remove_paranthesis(s)))
 
 
 # make spelling of aide memoire consistent
-
 def aide_memoire(s):
     """Replaces all of:
         'aid memoire'
@@ -132,12 +131,13 @@ def aide_memoire(s):
 
 df.speech = df.speech.apply(lambda s: aide_memoire(s))
 
-### make spelling of program/programme consistent
-
+# make spelling of program/programme consistent
 df.speech = df.speech.apply(lambda s: s.replace('programme', 'program'))
 
-# make usage of 20th february consistent
+# make spelling of labor consistent
+df.speech = df.speech.apply(lambda s: s.replace('labour', 'labor'))
 
+# make usage of 20th february consistent
 pattern = re.compile('20(th)?,? ?(uh)?,? ?(of)?,? ?(uh)?,? ?february|february ?(the)? ?20t?h?[^\d,. ]')
 df.speech = df.speech.apply(lambda s: re.sub(pattern, '20th_february', s))
 
@@ -167,6 +167,9 @@ df.story = df.story.apply(lambda s:\
 
 # replace programme with program
 df.story = df.story.apply(lambda s: s.replace('programme', 'program'))
+
+# make spelling of labor consistent
+df.story = df.story.apply(lambda s: s.replace('labour', 'labor'))
 
 # 20th_february
 pattern = re.compile('20(th)?,? ?(uh)?,? ?(of)?,? ?(uh)?,? ?february|february ?(the)? ?20t?h?[^\d,. ]')
