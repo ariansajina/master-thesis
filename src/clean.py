@@ -9,18 +9,17 @@ import pandas as pd
 PROJECT_ROOT = Path(__file__).parent.parent
 
 #################
-### read data ###
+### euroleaks ###
 #################
 
+# read data
 df = pd.read_csv(PROJECT_ROOT / 'data/euroleaks/parsed.csv')
 
 # lowercase speech
 df.speech = df.speech.apply(lambda s: s.lower())
 
 
-#####################
-### clean speaker ###
-#####################
+# clean speaker
 
 # strip and make lowercase
 df.speaker = df.speaker.apply(lambda s: s.strip().lower() if not pd.isnull(s) else s)
@@ -103,9 +102,7 @@ amend_names_inv = {value: key for key,values in amend_names.items() for value in
 df.speaker = df.speaker.apply(lambda s: amend_names_inv[s] if s in amend_names_inv.keys() else s)
 
 
-#######################################
-### remove paranthesis and brackets ###
-#######################################
+# remove paranthesis and brackets
 
 def remove_brackets(sentence):
     brackets_ = re.compile('\[.*\]')
@@ -118,9 +115,7 @@ def remove_paranthesis(sentence):
 df.speech = df.speech.apply(lambda s: remove_brackets(remove_paranthesis(s)))
 
 
-#############################
-### the aide memoire case ###
-#############################
+# make spelling of aide memoire consistent
 
 def aide_memoire(s):
     """Replaces all of:
@@ -137,25 +132,47 @@ def aide_memoire(s):
 
 df.speech = df.speech.apply(lambda s: aide_memoire(s))
 
-###########################
-### program / programme ###
-###########################
+### make spelling of program/programme consistent
 
 df.speech = df.speech.apply(lambda s: s.replace('programme', 'program'))
 
-#####################
-### 20th february ###
-#####################
+# make usage of 20th february consistent
 
 pattern = re.compile('20(th)?,? ?(uh)?,? ?(of)?,? ?(uh)?,? ?february|february ?(the)? ?20t?h?[^\d,. ]')
 df.speech = df.speech.apply(lambda s: re.sub(pattern, '20th_february', s))
 
-####################
-### write to csv ###
-####################
+
+# write to csv
 
 # drop missing speech
 df = df[df.speech != '']
 
 df.to_csv(PROJECT_ROOT / 'data/euroleaks/cleaned.csv', index=False)
+
+
+###################
+### communiques ###
+###################
+
+df = pd.read_csv(PROJECT_ROOT / 'data/communiques/parsed.csv')\
+        .sort_values(by='date').reset_index(drop=True)
+
+# make all lower
+df.title = df.title.apply(lambda s: s.lower())
+df.story = df.story.apply(lambda s: s.lower())
+
+# remove escaped characters
+df.story = df.story.apply(lambda s:\
+    s.replace('\\xc2', '').replace('\\xa0', '').replace('\n', ' ').replace('\\',''))
+
+# replace programme with program
+df.story = df.story.apply(lambda s: s.replace('programme', 'program'))
+
+# 20th_february
+pattern = re.compile('20(th)?,? ?(uh)?,? ?(of)?,? ?(uh)?,? ?february|february ?(the)? ?20t?h?[^\d,. ]')
+df.story = df.story.apply(lambda s: re.sub(pattern, '20th_february', s))
+
+
+# write to csv
+df.to_csv(PROJECT_ROOT / 'data/communiques/cleaned.csv', index=False)
 
