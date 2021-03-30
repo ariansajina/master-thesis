@@ -143,6 +143,13 @@ df.speech = df.speech.apply(lambda s: aide_memoire(s))
 
 df.speech = df.speech.apply(lambda s: s.replace('programme', 'program'))
 
+#####################
+### 20th february ###
+#####################
+
+pattern = re.compile('20(th)?,? ?(uh)?,? ?(of)?,? ?(uh)?,? ?february|february ?(the)? ?20t?h?[^\d,. ]')
+df.speech = df.speech.apply(lambda s: re.sub(pattern, '20th_february', s))
+
 ####################
 ### write to csv ###
 ####################
