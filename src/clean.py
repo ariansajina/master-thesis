@@ -1,6 +1,7 @@
 import re
 import os
 from pathlib import Path
+import json
 
 import numpy as np
 import pandas as pd
@@ -32,68 +33,11 @@ df = df[df.speaker != 'group']
 df = df[df.speaker != 'inaudible']
 
 # drop comuter generated speech
-df = df[df.speech != 'Has entered the conference.']
+df = df[df.speech != 'has entered the conference.']
 
 # make names unique
-amend_names = {
-    'wolfgang schäuble': [
-        'wolfgang schäuble',
-        'wolfgang schauble',
-        'wolfgang'
-    ],
-    'peter kažimír': [
-        'peter kažimír',
-        'peter kazimir'
-    ],
-    'michel sapin': [
-        'michel sapin',
-        'michel'
-    ],
-    'maria luís albuquerque': [
-        'maria luís albuquerque',
-        'maria luís',
-        'maria luis albuquerque'
-    ],
-    'johan van overtveldt': [
-        'johan van overtveldt',
-        'johan'
-    ],
-    'benoît cœuré': [
-        'benoît cœuré',
-        'benoit couré',
-        'benoit cœuré'
-    ],
-    'hans jörg schelling': [
-        'hans jörg schelling',
-        'hans'
-    ],
-    'poul mathias thomsen': [
-        'paul thomsen',
-        'paul',
-        'poul thomsen'
-    ],
-    'yanis varoufakis': [
-        'yanis varoufakis',
-        'yanis varoufakis [privately]'
-    ],
-    'luis de guindos': [
-        'luis de guindos',
-        'luis'
-    ],
-    'irina': [
-        'irina',
-        'irana'
-    ],
-    'jānis reirs': [
-        'yanis [not varoufakis]'
-    ],
-    'luca antonio ricci': [
-        'ricci'
-    ],
-    'thomas steffen': [
-        'thomas'
-    ]
-}
+with open(PROJECT_ROOT / 'data/euroleaks/amend_names.json', 'r') as f:
+    amend_names = json.load(f)
 
 # invert dict
 amend_names_inv = {value: key for key,values in amend_names.items() for value in values}
