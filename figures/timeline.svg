@@ -12,13 +12,25 @@
    viewBox="0 0 297 210"
    version="1.1"
    id="svg8"
-   inkscape:version="1.0.1 (1.0.1+r73)"
+   inkscape:version="1.0.2 (e86c8708, 2021-01-15)"
    sodipodi:docname="timeline.svg"
-   inkscape:export-filename="/home/asajina/repos/master-thesis/figures/timeline.png"
+   inkscape:export-filename="/Users/asajina/repos/master-thesis/figures/timeline.png"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96">
   <defs
      id="defs2">
+    <rect
+       x="289.71875"
+       y="11.90625"
+       width="27.78125"
+       height="13.229167"
+       id="rect2252" />
+    <rect
+       x="264.58333"
+       y="15.875"
+       width="29.387689"
+       height="99.067574"
+       id="rect2246" />
     <rect
        x="84.666667"
        y="39.6875"
@@ -401,6 +413,78 @@
        width="92.604164"
        height="34.395832"
        id="rect2444" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-1-0-3" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect432" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3-0-37-2-9" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1745" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3-0-37-2-3" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1833" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3-0-37-2-8" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1833-5" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-3-0-37-2-4" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1959" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect1250-5-61-9-5-2-7-7-1-6-2" />
+    <rect
+       x="84.666664"
+       y="39.6875"
+       width="92.604164"
+       height="34.395832"
+       id="rect631" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -409,17 +493,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88085106"
-     inkscape:cx="558.14491"
-     inkscape:cy="396.91241"
+     inkscape:zoom="1.5037465"
+     inkscape:cx="179.42536"
+     inkscape:cy="256.78757"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="true"
-     inkscape:window-width="1920"
-     inkscape:window-height="1043"
+     inkscape:window-width="1440"
+     inkscape:window-height="847"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1">
     <inkscape:grid
        type="xygrid"
@@ -433,33 +517,104 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234"
-       width="37.041668"
-       height="10.583333"
-       x="2.6458335"
-       y="5.2916665"
-       ry="5.0862704e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250);"
-       transform="translate(-80.896081,-33.476535)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold">25 January</tspan><tspan>
-</tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan>Greek snap election</tspan></tspan></text>
+     id="layer2"
+     inkscape:label="lines">
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 30.427083,130.96875 v 64.82291"
+       id="path3039" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 5.2916666,18.520833 V 195.79166"
+       id="path2379" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 10.583333,47.624999 V 195.79166"
+       id="path2381" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 15.875,66.145832 V 195.79166"
+       id="path2383" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 44.979166,179.91666 v 15.875"
+       id="path2395" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 21.166666,82.020832 V 195.79166"
+       id="path3035" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 26.458333,111.125 v 84.66666"
+       id="path3037" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 37.041666,154.78125 v 41.01041"
+       id="path3049" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 89.958332,66.145832 V 195.79166"
+       id="path2391" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 95.249999,84.666666 V 195.79166"
+       id="path2397" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 100.54167,103.1875 v 92.60416"
+       id="path2399" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 116.41667,161.39583 v 34.39583"
+       id="path2407" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 121.70833,179.91666 v 15.875"
+       id="path2409" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 105.83333,123.03125 v 72.76041"
+       id="path2957" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 111.125,141.55208 v 54.23958"
+       id="path2959" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 166.6875,23.8125 V 195.79166"
+       id="path706" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 171.97916,51.593749 V 195.79166"
+       id="path708" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 177.53541,72.760416 V 195.79166"
+       id="path710" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 182.5625,89.958332 V 195.79166"
+       id="path1593" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 187.85416,108.47917 v 87.31249"
+       id="path1595" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 193.14583,129.64583 v 66.14583"
+       id="path1597" />
+  </g>
+  <g
+     inkscape:label="boxes"
+     inkscape:groupmode="layer"
+     id="layer1"
+     style="opacity:0.99">
     <g
        id="g1214"
        transform="matrix(1.0188679,0,0,1,-8.1371852,0)">
@@ -479,610 +634,817 @@
     <text
        xml:space="preserve"
        id="text1242"
-       style="line-height:1.25;font-family:sans-serif;font-size:3.52777778px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1244);" />
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-6"
-       width="52.916676"
-       height="18.520828"
-       x="7.9374938"
-       y="21.166666"
-       ry="8.9009718e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-7"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3);"
-       transform="translate(-75.604423,-17.601535)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold">26 January
+       style="line-height:1.25;font-family:sans-serif;font-size:4.23333332999999978px;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1244);-inkscape-font-specification:'sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;" />
+    <g
+       id="g1587">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#1f77b4;stroke-width:1.04311;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8"
+         width="44.979164"
+         height="13.229172"
+         x="13.758336"
+         y="52.284851"
+         ry="6.3578418e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61);"
+         transform="translate(-68.872646,13.874897)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">11 February</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61)">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan>Syriza forms government
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61)">Eurogroup meeting</tspan></tspan></text>
+    </g>
+    <g
+       id="g2901">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#1f77b4;stroke-width:1.0431;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8-2-9"
+         width="44.979164"
+         height="13.229168"
+         x="86.254166"
+         y="52.33242"
+         ry="6.35784e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7-0-2"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5);"
+         transform="translate(3.663473,13.92247)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">24 April</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5)">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="51.628209"><tspan>Varoufakis becomes finance
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5)">Eurogroup meeting</tspan></tspan></text>
+    </g>
+    <g
+       id="g2910"
+       transform="translate(0,0.35404042)">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#1f77b4;stroke-width:1.0431;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8-2-9-8"
+         width="44.979191"
+         height="13.229168"
+         x="92.604134"
+         y="71.042084"
+         ry="6.35784e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7-0-2-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2);"
+         transform="translate(9.973152,32.568052)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">11 May</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2)">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="56.037934"><tspan>minister</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338062;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3"
-       width="26.458334"
-       height="10.583333"
-       x="13.229168"
-       y="47.625"
-       ry="5.0862709e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5);"
-       transform="translate(-70.312746,8.8567961)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold">11 February
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2)">Eurogroup meeting</tspan></tspan></text>
+    </g>
+    <g
+       id="g2928"
+       transform="translate(0,-1.062134)">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#1f77b4;stroke-width:1.0431;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8-2-9-8-3-2"
+         width="44.97916"
+         height="13.229168"
+         x="103.18748"
+         y="110.58566"
+         ry="6.35784e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7-0-2-9-6-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-1);"
+         transform="translate(20.596792,72.138502)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">22 June</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-1)">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5)">Eurogroup</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-7-3"
-       width="39.6875"
-       height="18.520838"
-       x="29.10417"
-       y="92.604164"
-       ry="8.9009773e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-0-6"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-1-9);"
-       transform="translate(-54.437742,53.835973)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-1-9)">24 February
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-1)">Eurogroup meeting</tspan></tspan></text>
+    </g>
+    <g
+       id="g2937"
+       transform="translate(0,-0.70808963)">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#1f77b4;stroke-width:1.04311;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8-2-9-8-3-9"
+         width="44.979179"
+         height="13.229172"
+         x="108.47913"
+         y="129.29533"
+         ry="6.3578418e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7-0-2-9-6-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-3);"
+         transform="translate(25.88845,90.848171)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">24 June</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-3)">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-1-9)">Eurogroup
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-3)">Eurogroup meeting</tspan></tspan></text>
+    </g>
+    <g
+       id="g2946"
+       transform="translate(0,-0.35404718)">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#1f77b4;stroke-width:1.0431;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8-2-9-8-3-4"
+         width="44.979172"
+         height="13.229163"
+         x="113.77081"
+         y="148.005"
+         ry="6.3578377e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7-0-2-9-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-7);"
+         transform="translate(31.180118,109.55784)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">25 June</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-7)">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="51.628209"><tspan
-           style="shape-inside:url(#rect1250-5-1-9)">four-month loan 
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-7)">Eurogroup meeting</tspan></tspan></text>
+    </g>
+    <g
+       id="g2955">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#1f77b4;stroke-width:1.0431;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8-2-9-8-3-4-0"
+         width="44.979156"
+         height="13.229163"
+         x="119.06248"
+         y="166.71465"
+         ry="6.3578377e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7-0-2-9-6-5-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1);"
+         transform="translate(36.471782,128.26749)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">27 June</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1)">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="56.037934"><tspan
-           style="shape-inside:url(#rect1250-5-1-9)">extension for Greece</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.4;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-7-6"
-       width="37.041668"
-       height="10.583333"
-       x="37.041668"
-       y="116.41666"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-0-2"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-1-0);"
-       transform="translate(-46.500235,77.64847)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-1-0)">17 March
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1)">Eurogroup meeting</tspan></tspan></text>
+    </g>
+    <g
+       id="g2581"
+       transform="translate(-1.0583333)">
+      <text
+         xml:space="preserve"
+         id="text1248"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250);"
+         transform="translate(-79.837748,-33.476535)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">25 January</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-1-0)">Euro Working Group</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-8"
-       width="26.458334"
-       height="10.583333"
-       x="18.520836"
-       y="63.499996"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-7"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61);"
-       transform="translate(-65.02108,24.731793)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-61)">12 February
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Greek snap election</tspan></tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:0.96, 0.47999999999999998;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234"
+         width="44.979168"
+         height="13.229166"
+         x="3.7041667"
+         y="5.2916665"
+         ry="6.3578382e-06" />
+    </g>
+    <g
+       id="g2594"
+       transform="translate(0,-0.03417687)">
+      <text
+         xml:space="preserve"
+         id="text1248-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3);"
+         transform="translate(-74.105422,-15.045801)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">26 January</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-61)">Eurogroup</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-8-2"
-       width="26.458334"
-       height="10.583333"
-       x="23.812502"
-       y="79.375"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-7-0"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9);"
-       transform="translate(-59.729415,40.606798)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9)">20 February
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Syriza forms government
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-61-9)">Eurogroup</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.399999;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-8-3"
-       width="37.041668"
-       height="10.583333"
-       x="44.979168"
-       y="132.29167"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-7-7"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-2);"
-       transform="translate(-38.562735,93.523469)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-61-2)">1 Aprli
+           x="84.666016"
+           y="54.133023"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Varoufakis becomes finance
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-61-2)">Euro Working Group</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-8-2-9"
-       width="26.458334"
-       height="10.583333"
-       x="52.916668"
-       y="148.16667"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-7-0-2"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5);"
-       transform="translate(-30.625258,109.39847)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5)">24 April
+           x="84.666016"
+           y="59.424687"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">minister the next day</tspan></tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:0.96, 0.48;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-6"
+         width="63.500004"
+         height="23.8125"
+         x="8.4666605"
+         y="23.389992"
+         ry="1.144411e-05" />
+    </g>
+    <g
+       id="g699">
+      <text
+         xml:space="preserve"
+         id="text1248-7-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0);"
+         transform="translate(80.997266,-33.164895)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">27 June</tspan><tspan
+             style="shape-inside:url(#rect1250-3-0)">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-61-9-5)">Eurogroup</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-8-2-9-8"
-       width="26.458334"
-       height="10.583333"
-       x="63.499977"
-       y="164.04167"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-7-0-2-9"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2);"
-       transform="translate(-20.04193,125.27346)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2)">11 May
+           x="84.666016"
+           y="48.841359"><tspan
+             style="shape-inside:url(#rect1250-3-0)">Greek prime minister Tsipras 
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-61-9-5-2)">Eurogroup</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-8-2-9-8-3"
-       width="26.458334"
-       height="10.583333"
-       x="74.083328"
-       y="179.91669"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-7-0-2-9-6"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7);"
-       transform="translate(-9.4585981,141.14845)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7)">18 June
+           x="84.666016"
+           y="54.133023"><tspan
+             style="shape-inside:url(#rect1250-3-0)">announces  referendum for 5 July</tspan></tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.525082;stroke-miterlimit:3;stroke-dasharray:1.05017, 0.52508200000000005;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-6-3"
+         width="77.258324"
+         height="18.541603"
+         x="163.51251"
+         y="5.2708974"
+         ry="8.9109553e-06" />
+    </g>
+    <g
+       id="g1586">
+      <text
+         xml:space="preserve"
+         id="text1248-7-6-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3);"
+         transform="translate(86.763335,-11.02057)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">29 June</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-61-9-5-2-7)">Eurogroup</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-8-2-9-8-3-2"
-       width="26.458334"
-       height="10.583333"
-       x="100.54168"
-       y="47.625"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-7-0-2-9-6-9"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-1);"
-       transform="translate(16.999736,8.8567766)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7-1)">22 June
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">capital controls introduced
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-61-9-5-2-7-1)">Eurogroup</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-8-2-9-8-3-9"
-       width="26.458334"
-       height="10.583333"
-       x="105.83333"
-       y="63.499996"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-7-0-2-9-6-4"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-3);"
-       transform="translate(22.291406,24.731771)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7-3)">24 June
+           x="84.666016"
+           y="54.133023"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">in Greece (cash withdrawal
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-61-9-5-2-7-3)">Eurogroup</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-8-2-9-8-3-4"
-       width="26.458334"
-       height="10.583333"
-       x="111.125"
-       y="79.375"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-7-0-2-9-6-5"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-7);"
-       transform="translate(27.919083,40.631469)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7-7)">25 June
+           x="84.666016"
+           y="59.424687"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">limited to €60 per day)</tspan></tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:0.96, 0.47999999999999998;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-6-3-2"
+         width="60.854183"
+         height="23.812504"
+         x="169.86249"
+         y="27.416254"
+         ry="1.1444109e-05" />
+    </g>
+    <g
+       id="g2662"
+       transform="translate(6.3500003,0.36334448)">
+      <text
+         xml:space="preserve"
+         id="text1248-7-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-37);"
+         transform="translate(106.28463,95.922626)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">6 July</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-61-9-5-2-7-7)">Eurogroup</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-6-3"
-       width="50.27084"
-       height="18.52083"
-       x="134.9375"
-       y="5.2916665"
-       ry="8.9009718e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-7-6"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0);"
-       transform="translate(51.395569,-33.476535)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold">27 June
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Varoufakis resigns
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan>Greek prime minister
+           x="84.666016"
+           y="54.133023"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">as</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"> </tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">finance minister</tspan></tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.449329;stroke-miterlimit:3;stroke-dasharray:0.898659, 0.44932899999999998;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-6-3-4"
+         width="44.979172"
+         height="18.520832"
+         x="189.44167"
+         y="133.92744"
+         ry="8.9009718e-06" />
+    </g>
+    <g
+       id="g1895"
+       transform="translate(-3.6666667e-8,50.536449)"
+       style="stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:0.96, 0.47999999999999998;stroke-dashoffset:0">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:0.96, 0.47999999999999998;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-6-3-4-5"
+         width="47.625"
+         height="18.52083"
+         x="246.59172"
+         y="83.754341"
+         ry="8.9009718e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-7-6-5-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-37-2);stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:0.96, 0.47999999999999998;stroke-dashoffset:0;"
+         transform="translate(162.89207,45.344383)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:0.96, 0.48;stroke-dashoffset:0">13 March 2020</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:0.96, 0.48;stroke-dashoffset:0">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="51.628209"><tspan>Tsipras announces 
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:0.96, 0.48;stroke-dashoffset:0">Varoufakis leaks the
 </tspan></tspan><tspan
-         x="84.666016"
-         y="56.037934"><tspan>referendum for 5 July</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-8-2-9-8-3-4-0"
-       width="26.458334"
-       height="10.583333"
-       x="116.41667"
-       y="95.25"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-7-0-2-9-6-5-6"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1);"
-       transform="translate(32.874736,56.481786)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1)">27 June
+           x="84.666016"
+           y="54.133023"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:0.96, 0.48;stroke-dashoffset:0">Eurogroup recordings</tspan></tspan></text>
+    </g>
+    <g
+       id="g2697"
+       transform="translate(7.4083337,3.2394131e-5)">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:0.96, 0.47999999999999998;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-6-3-2-4-4"
+         width="71.437523"
+         height="23.8125"
+         x="194.20416"
+         y="156.39281"
+         ry="1.1444107e-05" />
+      <text
+         xml:space="preserve"
+         id="text1248-7-6-0-7-4"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3-5-7);stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none;"
+         transform="translate(111.10601,118.388)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none">13 July</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-61-9-5-2-7-7-1)">Eurogroup</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-6-3-2"
-       width="50.27084"
-       height="18.520832"
-       x="153.45831"
-       y="31.749994"
-       ry="8.9009718e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-7-6-0"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3);"
-       transform="translate(69.916383,-7.0182061)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold">29 June
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none">despite referendum, Greek
 </tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan>capital controls introduced
+           x="84.666016"
+           y="54.133023"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none">government reaches agreement
 </tspan></tspan><tspan
-         x="84.666016"
-         y="51.628209"><tspan>in Greece (cash withdrawal
+           x="84.666016"
+           y="59.424687"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:1;stroke-miterlimit:3;stroke-dasharray:none">with Troika for third bailout</tspan></tspan></text>
+    </g>
+    <g
+       id="g2919"
+       transform="translate(0,0.70808743)">
+      <rect
+         style="fill:#000000;fill-opacity:0;stroke:#1f77b4;stroke-width:1.0431;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8-2-9-8-3"
+         width="44.979168"
+         height="13.229153"
+         x="97.895813"
+         y="89.751747"
+         ry="6.3578323e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7-0-2-9-6"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7);"
+         transform="translate(15.264813,51.307679)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">18 June</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7)">
 </tspan></tspan><tspan
-         x="84.666016"
-         y="56.037934"><tspan>limited to €60 per day)</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000090;stroke-width:0.338061;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-3-8-2-9-8-3-4-0-1"
-       width="26.458334"
-       height="10.583333"
-       x="174.625"
-       y="84.666664"
-       ry="5.0862714e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-5-7-0-2-9-6-5-6-5"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6);"
-       transform="translate(91.083053,45.898453)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6)">1 July
-</tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan
-           style="shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6)">Eurogroup</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-6-3-2-4"
-       width="50.27084"
-       height="18.520832"
-       x="187.85416"
-       y="103.18748"
-       ry="8.9009718e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-7-6-0-7"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3-5);"
-       transform="translate(104.31223,64.419293)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold">5 July
-</tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan>the NO vote wins the
-</tspan></tspan><tspan
-         x="84.666016"
-         y="51.628209"><tspan>referendum with 61% of
-</tspan></tspan><tspan
-         x="84.666016"
-         y="56.037934"><tspan>votes</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-6-3-2-6"
-       width="50.27084"
-       height="18.520832"
-       x="166.6875"
-       y="58.208332"
-       ry="8.9009718e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-7-6-0-9"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3-6);"
-       transform="translate(83.145552,19.440131)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold">30 June
-</tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan>Greece fails to make
-</tspan></tspan><tspan
-         x="84.666016"
-         y="51.628209"><tspan>loan payment to IMF
-</tspan></tspan><tspan
-         x="84.666016"
-         y="56.037934"><tspan>on time</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-6-3-4"
-       width="42.333336"
-       height="15.874999"
-       x="195.79167"
-       y="127"
-       ry="7.6294045e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-7-6-5"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-37);"
-       transform="translate(112.24976,88.231798)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold">6 July
-</tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan>Varoufakis resigns as
-</tspan></tspan><tspan
-         x="84.666016"
-         y="51.628209"><tspan>finance minister</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-6-3-4-5"
-       width="42.333336"
-       height="15.874999"
-       x="251.35416"
-       y="5.2916684"
-       ry="7.6294045e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-7-6-5-4"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-37-2);"
-       transform="translate(167.81224,-33.476533)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold">13 March 2020
-</tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan>Varoufakis leaks the
-</tspan></tspan><tspan
-         x="84.666016"
-         y="51.628209"><tspan>Eurogroup recordings</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.42333331;stroke-miterlimit:3;stroke-dasharray:0.84666662,0.42333331;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect1234-6-3-2-4-4"
-       width="60.854168"
-       height="18.520832"
-       x="203.72916"
-       y="148.16667"
-       ry="8.9009718e-06" />
-    <text
-       xml:space="preserve"
-       id="text1248-7-6-0-7-4"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3-5-7);"
-       transform="translate(120.18723,109.39847)"><tspan
-         x="84.666016"
-         y="42.808759"><tspan
-           style="font-weight:bold">13 July
-</tspan></tspan><tspan
-         x="84.666016"
-         y="47.218484"><tspan>despite referendum, Greek
-</tspan></tspan><tspan
-         x="84.666016"
-         y="51.628209"><tspan>government reaches agreement
-</tspan></tspan><tspan
-         x="84.666016"
-         y="56.037934"><tspan>with Troika for third bailout</tspan></tspan></text>
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 5.2916666,15.875 V 195.79166"
-       id="path2271" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 10.583333,39.6875 V 195.79166"
-       id="path2295" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 15.875,58.208333 V 195.79166"
-       id="path2297" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 21.166666,74.083332 V 195.79166"
-       id="path2299" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 26.458333,89.958332 V 195.79166"
-       id="path2301" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 31.75,111.125 v 84.66666"
-       id="path2303" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 42.333333,127.00001 v 68.79166"
-       id="path2305" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 50.270833,142.875 v 52.91666"
-       id="path2307" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 58.208333,158.75 v 37.04166"
-       id="path2309" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 68.791666,174.625 v 21.16666"
-       id="path2311" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 84.666666,190.5 v 5.29166"
-       id="path2313" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 103.1875,58.208333 V 195.79166"
-       id="path2315" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 108.47917,74.083332 V 195.79166"
-       id="path2317" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 113.77083,89.958332 V 195.79166"
-       id="path2319" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 121.70833,105.83333 v 89.95833"
-       id="path2321" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 145.52083,23.8125 V 195.79166"
-       id="path2323" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 158.75,50.270833 V 195.79166"
-       id="path2325" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 171.97916,76.729166 V 195.79166"
-       id="path2327" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 177.27083,95.249999 V 195.79166"
-       id="path2329" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 190.5,121.70833 v 74.08333"
-       id="path2331" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 198.4375,142.875 v 52.91666"
-       id="path2333" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m 222.25,166.6875 v 29.10416"
-       id="path2335" />
-    <path
-       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="M 283.10416,195.79166 V 21.166666"
-       id="path2337" />
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7)">Eurogroup meeting</tspan></tspan></text>
+    </g>
     <text
        xml:space="preserve"
        id="text1248-5-0"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3);"
+       style="font-size:4.23333332999999978px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3);-inkscape-font-specification:'sans-serif, Normal';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;"
        transform="translate(-82.231863,159.69325)"><tspan
          x="84.666016"
-         y="42.808759"><tspan
-           style="shape-inside:url(#rect1250-5-3)">January 2015</tspan></tspan></text>
+         y="43.549698"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-3)">January 2015</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1248-5-0-8"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3-7);"
-       transform="translate(147.95564,159.69325)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3-7);"
+       transform="translate(147.95564,159.73046)"><tspan
          x="84.666016"
-         y="42.808759"><tspan
-           style="shape-inside:url(#rect1250-5-3-7)">July 2015</tspan></tspan></text>
+         y="43.549695"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-3-7)">July 2015</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1248-5-0-84"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3-6);"
-       transform="translate(195.278,159.14322)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3-6);"
+       transform="translate(195.278,160.08702)"><tspan
          x="84.666016"
-         y="42.808759"><tspan>2020</tspan></tspan></text>
+         y="43.549695"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">2020</tspan></tspan></text>
     <text
        xml:space="preserve"
        id="text1248-5-0-1"
-       style="font-size:3.52778px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3-3);"
-       transform="translate(8.5455871,164.28012)"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-3-3);"
+       transform="translate(21.764908,159.73046)"><tspan
          x="84.666016"
-         y="42.808759"><tspan>(timeline not in scale)</tspan></tspan></text>
+         y="43.549695"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">(timeline not in scale)</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       id="text2250"
+       style="fill:black;fill-opacity:1;line-height:1.25;stroke:none;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:10.58333333000000032px;white-space:pre;shape-inside:url(#rect2252);" />
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke:#000001;stroke-width:0.48;stroke-miterlimit:3;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect1234-6-3-4-5-5"
+       width="47.625"
+       height="82.039116"
+       x="246.59172"
+       y="5.2733841"
+       ry="3.9427381e-05" />
+    <text
+       xml:space="preserve"
+       id="text1248-7-6-5-4-8"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-37-2-4);"
+       transform="translate(162.89207,-33.136574)"><tspan
+         x="84.666016"
+         y="43.549695"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Legend</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.48;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.96, 0.47999999999999998;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 248.70834,19.84375 h 10.58333 v 0"
+       id="path2045" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="263.59976"
+       y="18.779217"
+       id="text2258"><tspan
+         sodipodi:role="line"
+         id="tspan2256"
+         x="263.59976"
+         y="18.779217"
+         style="font-size:4.23332999999999959px;stroke-width:0.264583">political</tspan><tspan
+         sodipodi:role="line"
+         x="263.59976"
+         y="24.070879"
+         style="font-size:4.23332999999999959px;stroke-width:0.264583"
+         id="tspan2260">event</tspan></text>
+    <path
+       style="fill:none;stroke:#1f77b4;stroke-width:1.043;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 248.70834,31.986377 h 10.58333 v 0"
+       id="path2045-5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="263.40549"
+       y="33.116024"
+       id="text2264"><tspan
+         sodipodi:role="line"
+         id="tspan2262"
+         x="263.40549"
+         y="33.116024"
+         style="font-size:4.23332999999999959px;stroke-width:0.264583">EG meeting</tspan></text>
+    <path
+       style="fill:none;stroke:#1f77b4;stroke-width:1.043;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.043, 1.04299999999999993;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 248.70834,44.129004 h 10.58333 v 0"
+       id="path2045-5-1" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:29.1042;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="308.23959"
+       y="26.458332"
+       id="text2268"
+       transform="translate(-44.561911,16.606139)"><tspan
+         x="308.23959"
+         y="26.458332"><tspan
+           style="font-size:4.23333px;stroke-width:0.264583">EG telecon-</tspan></tspan><tspan
+         x="308.23959"
+         y="31.749993"><tspan
+           style="font-size:4.23333px;stroke-width:0.264583">ference</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#d3d3d3;stroke-width:1.043;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 248.70834,61.551928 h 10.58333 v 0"
+       id="path2045-5-3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:34.3958;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="308.23959"
+       y="44.979168"
+       id="text2272"
+       transform="translate(-44.783086,12.42211)"><tspan
+         x="308.23959"
+         y="44.979168"><tspan
+           style="font-size:4.23333px;stroke-width:0.264583">EG meeting
+</tspan></tspan><tspan
+         x="308.23959"
+         y="50.270833"><tspan
+           style="font-size:4.23333px;stroke-width:0.264583">(not included
+</tspan></tspan><tspan
+         x="308.23959"
+         y="55.562497"><tspan
+           style="font-size:4.23333px;stroke-width:0.264583">in this study)</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#ff7f03;stroke-width:1.043;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 248.70834,78.052083 h 10.58333 v 0"
+       id="path2045-5-6" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;white-space:pre;inline-size:31.75;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="306.91666"
+       y="66.145836"
+       id="text2278"
+       transform="translate(-43.237692,11.76449)"><tspan
+         x="306.91666"
+         y="66.145836"><tspan
+           style="font-size:4.23333px;stroke-width:0.264583">EWG telecon-</tspan></tspan><tspan
+         x="306.91666"
+         y="71.437497"><tspan
+           style="font-size:4.23333px;stroke-width:0.264583">ference</tspan></tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458300000000001px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 283.10416,195.79166 V 153.45833"
+       id="path1660" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="text">
+    <g
+       id="g1559"
+       transform="translate(-1.0583333)">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.45749;stroke:#000001;stroke-width:0.475699;stroke-miterlimit:3;stroke-dasharray:0.951394, 0.475699;stroke-dashoffset:0;stroke-opacity:0.878542"
+         id="rect1234-6-3-2-6"
+         width="59.795849"
+         height="18.627306"
+         x="175.94792"
+         y="54.239574"
+         ry="8.9521427e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-7-6-0-9"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3-6);"
+         transform="translate(93.916402,15.857017)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">30 June</tspan><tspan
+             style="shape-inside:url(#rect1250-3-0-3-6)">
+</tspan></tspan><tspan
+           x="84.666016"
+           y="48.841359"><tspan
+             style="shape-inside:url(#rect1250-3-0-3-6)">Greece fails to make loan 
+</tspan></tspan><tspan
+           x="84.666016"
+           y="54.133023"><tspan
+             style="shape-inside:url(#rect1250-3-0-3-6)">payment to IMF on time</tspan></tspan></text>
+    </g>
+    <g
+       id="g1654">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.99595141;stroke:#000001;stroke-width:0.526421;stroke-miterlimit:3;stroke-dasharray:1.05285, 0.52642100000000003;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-6-3-2-4"
+         width="76.200027"
+         height="18.895174"
+         x="191.02916"
+         y="111.79119"
+         ry="9.080878e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-7-6-0-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-3-0-3-5);"
+         transform="translate(108.77131,73.568407)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">5 July</tspan><tspan
+             style="shape-inside:url(#rect1250-3-0-3-5)">
+</tspan></tspan><tspan
+           x="84.666016"
+           y="48.841359"><tspan
+             style="shape-inside:url(#rect1250-3-0-3-5)">the NO vote wins the referendum 
+</tspan></tspan><tspan
+           x="84.666016"
+           y="54.133023"><tspan
+             style="shape-inside:url(#rect1250-3-0-3-5)">with 61% majority</tspan></tspan></text>
+    </g>
+    <g
+       id="g1625">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#1f77b4;stroke-width:1.04651;stroke-miterlimit:3.06667;stroke-dasharray:1.04651, 1.04651000000000005;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8-2-9-8-3-4-0-1-4"
+         width="58.208328"
+         height="13.229166"
+         x="179.91667"
+         y="77.297447"
+         ry="6.3578391e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7-0-2-9-6-5-6-5-7"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6-2);"
+         transform="translate(96.924971,38.887487)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">30 June</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6-2)">
+</tspan></tspan><tspan
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6-2)">Eurogroup teleconference</tspan></tspan></text>
+    </g>
+    <g
+       id="g1648">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#1f77b4;stroke-width:1.04651;stroke-miterlimit:3.06667;stroke-dasharray:1.04651, 1.04651000000000005;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8-2-9-8-3-4-0-1"
+         width="58.208328"
+         height="13.229166"
+         x="185.20833"
+         y="94.674339"
+         ry="6.3578391e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7-0-2-9-6-5-6-5"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6);"
+         transform="translate(102.21663,56.264384)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">1 July</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6)">
+</tspan></tspan><tspan
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9-5-2-7-7-1-6)">Eurogroup teleconference</tspan></tspan></text>
+    </g>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 198.4375,153.45833 v 42.33333"
+       id="path1656" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 206.375,179.91666 v 15.875"
+       id="path1658" />
+    <g
+       id="g1571">
+      <rect
+         style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#1f77b4;stroke-width:1.0431;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8-2"
+         width="44.979168"
+         height="13.229163"
+         x="19.049999"
+         y="70.912117"
+         ry="6.3578377e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-9);opacity:0.99;"
+         transform="translate(-63.565478,32.502158)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">2</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">0 February</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9)">
+</tspan></tspan><tspan
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-9)">Eurogroup meeting</tspan></tspan></text>
+    </g>
+    <g
+       id="g1472">
+      <rect
+         style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#1f77b4;stroke-width:1.06135;stroke-miterlimit:3.06667;stroke-dasharray:1.06135, 1.06135000000000002;stroke-dashoffset:0;stroke-opacity:0.909804"
+         id="rect1234-3-7-3"
+         width="58.208332"
+         height="23.812506"
+         x="23.8125"
+         y="89.548492"
+         ry="1.1444114e-05" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-0-6"
+         style="opacity:0.99;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-1-9);"
+         transform="translate(-59.042774,51.54368)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">24 February</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-1-9)">
+</tspan></tspan><tspan
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-1-9)">Eurogroup teleconference
+</tspan></tspan><tspan
+           x="84.666016"
+           y="54.133023"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-1-9)">four-month loan 
+</tspan></tspan><tspan
+           x="84.666016"
+           y="59.424687"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-1-9)">extension for Greece</tspan></tspan></text>
+    </g>
+    <g
+       id="g1495">
+      <rect
+         style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#d3d3d3;stroke-width:1.04311;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-7-6-0"
+         width="44.979168"
+         height="13.229169"
+         x="28.574995"
+         y="118.7682"
+         ry="6.3578404e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-0-2-4"
+         style="opacity:0.99;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-1-0-3);"
+         transform="translate(-53.966084,80.358255)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">9 March</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-1-0-3)">
+</tspan></tspan><tspan
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-1-0-3)">Eurogroup meeting</tspan></tspan></text>
+    </g>
+    <g
+       id="g1524">
+      <rect
+         style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#ff7f03;stroke-width:1.09741;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-7-6"
+         width="47.624992"
+         height="18.520845"
+         x="34.924999"
+         y="137.42262"
+         ry="8.9009809e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-0-2"
+         style="opacity:0.99;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-1-0);"
+         transform="translate(-47.50653,99.417812)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">17 March</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-1-0)">
+</tspan></tspan><tspan
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-1-0)">Euro Working Group
+</tspan></tspan><tspan
+           x="84.666016"
+           y="54.133023"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-1-0)">teleconference</tspan></tspan></text>
+    </g>
+    <g
+       id="g1553">
+      <rect
+         style="opacity:0.99;fill:#ffffff;fill-opacity:1;stroke:#ff7f03;stroke-width:1.09741;stroke-miterlimit:3.06667;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect1234-3-8-3"
+         width="47.624992"
+         height="18.520823"
+         x="39.687511"
+         y="161.39586"
+         ry="8.90097e-06" />
+      <text
+         xml:space="preserve"
+         id="text1248-5-7-7"
+         style="opacity:0.99;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23332999999999959px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;letter-spacing:0px;white-space:pre;shape-inside:url(#rect1250-5-61-2);"
+         transform="translate(-42.744017,123.39105)"><tspan
+           x="84.666016"
+           y="43.549695"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">1 Aprli</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-2)">
+</tspan></tspan><tspan
+           x="84.666016"
+           y="48.841359"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-2)">Euro Working Group
+</tspan></tspan><tspan
+           x="84.666016"
+           y="54.133023"><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;shape-inside:url(#rect1250-5-61-2)">teleconference</tspan></tspan></text>
+    </g>
   </g>
 </svg>
