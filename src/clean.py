@@ -32,6 +32,9 @@ df.speaker.loc[df.speaker.isnull()] = 'jeroen dijsselbloem'
 df = df[df.speaker != 'group']
 df = df[df.speaker != 'inaudible']
 
+# drop varoufakis remarks made to aides at his side, not addressed to the Eurogroup
+df = df[df.speaker != 'yanis varoufakis [privately]']
+
 # drop comuter generated speech
 df = df[df.speech != 'has entered the conference.']
 
@@ -45,6 +48,9 @@ amend_names_inv = {value: key for key,values in amend_names.items() for value in
 # amend speaker names
 df.speaker = df.speaker.apply(lambda s: amend_names_inv[s] if s in amend_names_inv.keys() else s)
 
+# speaker identification based on context and listening
+df.speaker[np.logical_and(df.speaker == 'speaker 1', df.date=='2015-05-11 00:00:00')] = 'pierre moscovici'
+df.speaker[np.logical_and(df.speaker == 'speaker 2', df.date=='2015-05-11 00:00:00')] = 'benoît cœuré'
 
 # remove paranthesis and brackets
 
