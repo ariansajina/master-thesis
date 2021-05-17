@@ -16,9 +16,6 @@ PROJECT_ROOT = Path(__file__).parent.parent
 # read data
 df = pd.read_csv(PROJECT_ROOT / 'data/euroleaks/parsed.csv')
 
-# lowercase speech
-df.speech = df.speech.apply(lambda s: s.lower())
-
 
 # clean speaker
 
@@ -35,9 +32,6 @@ df = df[df.speaker != 'inaudible']
 # drop varoufakis remarks made to aides at his side, not addressed to the Eurogroup
 df = df[df.speaker != 'yanis varoufakis [privately]']
 
-# drop comuter generated speech
-df = df[df.speech != 'has entered the conference.']
-
 # make names unique
 with open(PROJECT_ROOT / 'data/euroleaks/amend_names.json', 'r') as f:
     amend_names = json.load(f)
@@ -51,6 +45,9 @@ df.speaker = df.speaker.apply(lambda s: amend_names_inv[s] if s in amend_names_i
 # speaker identification based on context and listening
 df.speaker[np.logical_and(df.speaker == 'speaker 1', df.date=='2015-05-11 00:00:00')] = 'pierre moscovici'
 df.speaker[np.logical_and(df.speaker == 'speaker 2', df.date=='2015-05-11 00:00:00')] = 'benoît cœuré'
+
+# drop comuter generated speech
+df = df[df.speech.lower() != 'has entered the conference.']
 
 # remove paranthesis and brackets
 
@@ -76,19 +73,21 @@ def aide_memoire(s):
         'aide-memoire'
     with 'aide memoire'.
     """
-    pattern = re.compile('(aide{0,1} {0,1}( |-)memoire{0,1})')
+    pattern = re.compile('([Aa]ide{0,1} {0,1}( |-)[Mm]emoire{0,1})')
     return re.sub(pattern, 'aide memoire', s)
 
 df.speech = df.speech.apply(lambda s: aide_memoire(s))
 
 # make spelling of program/programme consistent
 df.speech = df.speech.apply(lambda s: s.replace('programme', 'program'))
+df.speech = df.speech.apply(lambda s: s.replace('Programme', 'Program'))
 
 # make spelling of labor consistent
 df.speech = df.speech.apply(lambda s: s.replace('labour', 'labor'))
+df.speech = df.speech.apply(lambda s: s.replace('Labour', 'Labor'))
 
 # make usage of 20th february consistent
-pattern = re.compile('20(th)?,? ?(uh)?,? ?(of)?,? ?(uh)?,? ?february|february ?(the)? ?20t?h?[^\d,. ]')
+pattern = re.compile('20(th)?,? ?(uh)?,? ?(of)?,? ?(uh)?,? ?[Ff]ebruary|[Ff]ebruary ?(the)? ?20t?h?[^\d,. ]')
 df.speech = df.speech.apply(lambda s: re.sub(pattern, '20th_february', s))
 
 
@@ -107,22 +106,20 @@ df.to_csv(PROJECT_ROOT / 'data/euroleaks/cleaned.csv', index=False)
 df = pd.read_csv(PROJECT_ROOT / 'data/communiques/parsed.csv')\
         .sort_values(by='date').reset_index(drop=True)
 
-# make all lower
-df.title = df.title.apply(lambda s: s.lower())
-df.story = df.story.apply(lambda s: s.lower())
-
 # remove escaped characters
 df.story = df.story.apply(lambda s:\
     s.replace('\\xc2', '').replace('\\xa0', '').replace('\n', ' ').replace('\\',''))
 
 # replace programme with program
 df.story = df.story.apply(lambda s: s.replace('programme', 'program'))
+df.story = df.story.apply(lambda s: s.replace('Programme', 'Program'))
 
 # make spelling of labor consistent
 df.story = df.story.apply(lambda s: s.replace('labour', 'labor'))
+df.story = df.story.apply(lambda s: s.replace('Labour', 'Labor'))
 
 # 20th_february
-pattern = re.compile('20(th)?,? ?(uh)?,? ?(of)?,? ?(uh)?,? ?february|february ?(the)? ?20t?h?[^\d,. ]')
+pattern = re.compile('20(th)?,? ?(uh)?,? ?(of)?,? ?(uh)?,? ?[Ff]ebruary|[Ff]ebruary ?(the)? ?20t?h?[^\d,. ]')
 df.story = df.story.apply(lambda s: re.sub(pattern, '20th_february', s))
 
 
