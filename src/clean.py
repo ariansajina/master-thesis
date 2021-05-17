@@ -47,7 +47,7 @@ df.speaker[np.logical_and(df.speaker == 'speaker 1', df.date=='2015-05-11 00:00:
 df.speaker[np.logical_and(df.speaker == 'speaker 2', df.date=='2015-05-11 00:00:00')] = 'benoît cœuré'
 
 # drop comuter generated speech
-df = df[df.speech.lower() != 'has entered the conference.']
+df = df[df.speech.apply(lambda s: s.strip().lower() if not pd.isnull(s) else s) != 'has entered the conference.']
 
 # remove paranthesis and brackets
 
