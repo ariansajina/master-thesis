@@ -86,6 +86,10 @@ df.speech = df.speech.apply(lambda s: s.replace('Programme', 'Program'))
 df.speech = df.speech.apply(lambda s: s.replace('labour', 'labor'))
 df.speech = df.speech.apply(lambda s: s.replace('Labour', 'Labor'))
 
+# make spelling of privatization consistent
+df.speech = df.speech.apply(lambda s: s.replace('privatisation', 'privatization'))
+df.speech = df.speech.apply(lambda s: s.replace('Privatisation', 'Privatization'))
+
 # make usage of 20th february consistent
 pattern = re.compile('20(th)?,? ?(uh)?,? ?(of)?,? ?(uh)?,? ?[Ff]ebruary|[Ff]ebruary ?(the)? ?20t?h?[^\d,. ]')
 df.speech = df.speech.apply(lambda s: re.sub(pattern, '20th_february', s))
@@ -117,6 +121,10 @@ df.story = df.story.apply(lambda s: s.replace('Programme', 'Program'))
 # make spelling of labor consistent
 df.story = df.story.apply(lambda s: s.replace('labour', 'labor'))
 df.story = df.story.apply(lambda s: s.replace('Labour', 'Labor'))
+
+# make spelling of privatization consistent
+df.story = df.story.apply(lambda s: s.replace('privatisation', 'privatization'))
+df.story = df.story.apply(lambda s: s.replace('Privatisation', 'Privatization'))
 
 # 20th_february
 pattern = re.compile('20(th)?,? ?(uh)?,? ?(of)?,? ?(uh)?,? ?[Ff]ebruary|[Ff]ebruary ?(the)? ?20t?h?[^\d,. ]')
