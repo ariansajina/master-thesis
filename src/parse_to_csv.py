@@ -166,7 +166,8 @@ for filename in os.listdir(str(PROJECT_ROOT / 'data/communiques/html')):
         story = ''
 
         for p in soup.find(id='main-content').find_all('p')[:-3]:
-            story = p.text if not story else '\n'.join((story, p.text))
+            text = p.text.replace('\\n', ' ').replace('\\xc2', '').replace('\\xa0', '').strip()
+            story = text if not story else '\n'.join((story, text))
 
         col_dates.append(date)
         col_titles.append(title)
